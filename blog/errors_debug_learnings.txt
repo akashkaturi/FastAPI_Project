@@ -1,0 +1,9 @@
+1. always remember what names you gave for relationships, foreign key part,
+otherwise you'll face a lot of problems. knowing the variable name of relationship
+will easily solve every problem.
+
+
+2. while running the project set root folder as BitfumesProject instead of blog and
+   from there use the conventions to access files of the blog. This will remove import errors.
+
+3. Python jose for jwt
